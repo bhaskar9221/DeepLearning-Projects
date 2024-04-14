@@ -1,5 +1,5 @@
 # DeepLearning-Projects
-## :computer: Welcome to DeepLearning-Projects! 🚀
+## :computer: Welcome to My DeepLearning-Projects! 🚀
 
 This repository is dedicated to showcasing my journey in Deep Learning through a collection of beginner-friendly projects. As a fresh graduate aspiring to kickstart my career in AI, I've crafted these projects to demonstrate my practical understanding of fundamental Deep Learning concepts and their application in real-world scenarios.
 
