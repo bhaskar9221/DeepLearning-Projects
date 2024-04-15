@@ -10,6 +10,3 @@ Join me on this learning journey as I dive into the fascinating world of Deep Le
 
 
 
-
-### Reinforcement Learning
-(I) [Snake AI](https://github.com/bhaskar9221/DeepLearning-Projects/tree/main/Snake-AI)
